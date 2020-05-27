@@ -6,6 +6,6 @@
 
 * [Titanic Top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
 
-* [Introduction to Ensembling/Stacking in Python])https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+* [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
 
